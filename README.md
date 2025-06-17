@@ -6,7 +6,7 @@
     - Web development
     - Software development
     - Innovative startup ideas and MVPs
-- 📫 Reach me at: [charlesgiftangila@gmail.com@gmail.com](mailto:charlesgiftangila@gmail.com)
+- 📫 Reach me at: [charlesgiftangila@gmail.com](mailto:charlesgiftangila@gmail.com)
 - 😄 Pronouns: He/Him
 
 
